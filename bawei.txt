@@ -1,2 +1,6 @@
 qqqqqqqqqqqqqqq
+<<<<<<< HEAD
 aaaaaaa
+=======
+wwwwwwwww
+>>>>>>> dev
